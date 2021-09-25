@@ -45,4 +45,4 @@ jobs:
           make build
       - name: Run the app
         run: |
-          ./coba-github-action
+          ./belajar-github-action
